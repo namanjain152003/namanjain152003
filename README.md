@@ -2,7 +2,6 @@
 **A passionate problem Solver || Developer || Student from India**
 
 - 🌱 **I’m currently learning:Data Structures and Web Development.
-- 🤔 **I’m looking for help with:** Your project here
 - 📫 **How to reach me:** namanjain152003@gmail.com
 - ⚡ **Fun fact:** “Flip it backwards, it’s still Naman — a built-in palindrome.”
 ## 🌐 Socials:
